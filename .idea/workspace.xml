@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="158b1f06-db9b-43bf-9ad2-9741af6e0623" name="Changes" comment="" />
+    <list default="true" id="158b1f06-db9b-43bf-9ad2-9741af6e0623" name="Changes" comment="lkdjflskfjkdjfkjsdkjk">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/New folder/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Web_Portal_Test_Shuvo.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/UniPortalTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/UniPortalTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/UniPortalTesting.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/UniPortalTesting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-UniPortalTesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-UniPortalTesting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyTestKazi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyTestShuvo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UniPortalTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UniPortalTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,12 +63,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="21rcrXIsaTFtMhcIjRhvdiBuQ7y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
@@ -64,7 +100,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.UniPortalTesting">
+  <component name="RunManager" selected="Gradle.UniPortalTesting.UserLogin">
     <configuration name="MyTestKazi" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -86,12 +122,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UniPortalTesting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="UniPortalTesting.SearchBox" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;UniPortalTesting&quot;" />
+        <option name="scriptParameters" value="--tests &quot;UniPortalTesting.SearchBox&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -107,12 +143,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UniPortalTesting.PortalsTesting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="UniPortalTesting.SelectProduct" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;UniPortalTesting.PortalsTesting&quot;" />
+        <option name="scriptParameters" value="--tests &quot;UniPortalTesting.SelectProduct&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -128,12 +164,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UniPortalTesting.myTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="UniPortalTesting.UserLogin" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;UniPortalTesting.myTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;UniPortalTesting.UserLogin&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -149,12 +185,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Uni_Portal_Testing.myTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="UniPortalTesting.portalsTesting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;Uni_Portal_Testing.myTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;UniPortalTesting.portalsTesting&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -172,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.UniPortalTesting" />
+        <item itemvalue="Gradle.UniPortalTesting.UserLogin" />
+        <item itemvalue="Gradle.UniPortalTesting.SearchBox" />
         <item itemvalue="Gradle.MyTestKazi" />
-        <item itemvalue="Gradle.UniPortalTesting.PortalsTesting" />
-        <item itemvalue="Gradle.UniPortalTesting.myTest" />
-        <item itemvalue="Gradle.Uni_Portal_Testing.myTest" />
+        <item itemvalue="Gradle.UniPortalTesting.SelectProduct" />
+        <item itemvalue="Gradle.UniPortalTesting.portalsTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -189,32 +225,48 @@
       <option name="presentableId" value="Default" />
       <updated>1638702847207</updated>
     </task>
+    <task id="LOCAL-00001" summary="add all file to git &#10;runable project">
+      <created>1643132940085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643132940085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/UniPortalTesting.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/MyTestKazi.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/UniPortalTesting.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/UniPortalTesting.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add all file to git &#10;runable project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all file to git &#10;runable project" />
   </component>
 </project>
